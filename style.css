@@ -1,0 +1,60 @@
+body{
+    background-image: url("nature.png");     
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+
+}
+
+fieldset{
+    background-image: url("green.jpg"); 
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
+    text-align: center;
+    box-sizing: border-box;
+    width: 50%;
+    border: solid black 2px;
+    border-radius: 15px;
+    margin: auto;
+    border:1px solid black;
+	box-shadow:0 0 10px green;
+}
+
+legend{
+    background-color:brown;
+    border-radius: 5px;
+}
+h2{
+    text-align: left;
+    margin-left: 90px;
+}
+table{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#intrest, .inter{
+    text-align: left;
+}
+input{
+
+    color: black;
+}
+#gender{
+    text-align: left;
+}
+.name{
+    border-radius: 5px;
+    border-style: outset;
+    box-shadow: red;
+}
+#send{
+    border-radius: 5px;
+    
+}
+#reason{
+    height: 100px;
+    width: 400px;
+    border-radius: 5px;
+}
